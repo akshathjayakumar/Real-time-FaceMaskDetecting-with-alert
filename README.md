@@ -6,3 +6,5 @@ By leveraging OpenCV, the code captures live video frames, employing a pre-train
 
 If someone lacks a mask, the system captures their image and sends an email alert to authorized recipients. The "trainner" script handles training the mask detection model, while the "mask detect" script performs real-time mask detection and alerting.
 
+Please download the dataset from Kaggle
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
